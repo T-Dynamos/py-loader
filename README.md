@@ -13,7 +13,7 @@ Download Termux = https://f-droid.org/repo/com.termux_112.apk
 Find module = https://pypi.org/project/Py-loader/
 
 syntax =
-``
+```
 
 from py_loader import download_file
 
