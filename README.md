@@ -1,6 +1,6 @@
 # py-loader
 
-I made it without use of computer
+* I made it without use of computer
 
 and only used termux app 
 
@@ -13,10 +13,12 @@ Download Termux = https://f-droid.org/repo/com.termux_112.apk
 Find module = https://pypi.org/project/Py-loader/
 
 syntax =
+``
 
 from py_loader import download_file
 
 download_file('https://www.example.com/','name.html')
+```
 
 It only uses two lines . I made it using a video tutorial 
 
